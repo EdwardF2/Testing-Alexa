@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\10-alexa-dynamodb-datastore-example-skill-master",
+    "\\10-alexa-dynamodb-datastore-example-skill-master\\.ask",
+    "\\10-alexa-dynamodb-datastore-example-skill-master\\lambda",
+    "\\10-alexa-dynamodb-datastore-example-skill-master\\lambda\\custom",
+    "\\10-alexa-dynamodb-datastore-example-skill-master\\lambda\\custom\\helpers",
+    "\\10-alexa-dynamodb-datastore-example-skill-master\\lambda\\custom\\node_modules",
+    "\\10-alexa-dynamodb-datastore-example-skill-master\\lambda\\custom\\node_modules\\aws-sdk",
+    "\\10-alexa-dynamodb-datastore-example-skill-master\\lambda\\custom\\node_modules\\aws-sdk\\.changes"
+  ],
+  "SelectedNode": "\\10-alexa-dynamodb-datastore-example-skill-master\\lambda\\custom\\node_modules\\aws-sdk\\.changes\\2.10.0.json",
+  "PreviewInSolutionExplorer": false
+}
